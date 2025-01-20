@@ -9,4 +9,4 @@ Voglio approfondire l'utilizzo di GitHub per lavorare in team su progetti di svi
 ### Rosa Belviso 
 Entra alle ore 11:20
 ### Sara Sariti
-Entra alle ore 13:45
+Entra alle ore 12:45
